@@ -126,4 +126,9 @@ class Login extends MY_Controller {
 
 
 		}
+		
+	}
+
+	public function (){
+		echo "nfjvnf";
 	}
